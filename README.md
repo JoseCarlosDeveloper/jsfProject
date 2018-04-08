@@ -1,8 +1,7 @@
 # jsfProject
-Project in jsf primefaces, hibernate, sql,  java e jsp
-******************************************************
+Projeto Java, jsf primefaces, Hibernate, Mysql, Regex, Criptografia
+*******************************************************************
 usuario: teste@gmail.com
 senha: teste123
-******************************************************
+*******************************************************************
 
-Meu primeiro Projeto Web.
